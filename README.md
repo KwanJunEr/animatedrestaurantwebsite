@@ -4,7 +4,8 @@ Tech Stack:
 - Framer Motion
 - Tailwind CSS
 - React
-- 
+
+Deployed Website: https://main--foodlord-website.netlify.app/
 
 # React + Vite
 
