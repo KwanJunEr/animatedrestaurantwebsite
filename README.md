@@ -1,3 +1,10 @@
+#The project is a built-along project by folliwng the Youtube Tutorial : https://www.youtube.com/watch?v=nj7KUzzKxCw&ab_channel=TheCodingJourney
+
+Tech Stack:
+- Framer Motion
+- Tailwind CSS
+- React 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
